@@ -6,8 +6,8 @@ from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
 from fastapi.openapi.utils import get_openapi
 
-from template.api import api_router as enigma_api_router
-from template.config import settings
+from app.api import api_router as enigma_api_router
+from app.config import settings
 
 TEMPLATE_TITLE = "AI/ML FastAPI Starter Template"
 
