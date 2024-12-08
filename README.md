@@ -1,6 +1,8 @@
-# AI/ML-FastAPI Template
+# AI/ML - FastAPI Template
 
-This repository provides a starter template for building AI/ML applications using FastAPI. It includes essential features like logging, configuration management, and best practices to get started with developing and deploying AI/ML models using FastAPI.
+This repository provides a comprehensive starter template for building AI/ML applications using FastAPI, designed to take you from PoC to production-ready seamlessly. It includes essential features like logging, configuration management, and best practices to help you quickly develop, test, and deploy AI/ML models with confidence.
+
+Whether you're prototyping a new model or building a scalable production API, this template has you covered. It provides a robust foundation with built-in tools for logging, environment management, and more, to ensure smooth transitions through every stage of development.
 
 ## Features
 
