@@ -17,7 +17,7 @@ This repository provides a starter template for building AI/ML applications usin
 
 ```bash
 .
-├── template/
+├── app/
 │   ├── __init__.py
 │   ├── api/               # API routes
 │   ├── models/            # ML model loading and inference
